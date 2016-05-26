@@ -1,4 +1,4 @@
-
+# got this file from a tutor. It generates a random maze and also gives the solution to the maze.
 from tkinter import *
 import random
 import math
