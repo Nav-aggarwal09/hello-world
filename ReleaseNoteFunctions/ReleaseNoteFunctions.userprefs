@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D0CFB1A0-80EF-4395-9083-0F2F7A2FF84E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParseNotes/Program.cs">
+    <Files>
+      <File FileName="ParseNotes/Program.cs" Line="62" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ParseNotes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

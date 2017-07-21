@@ -1,0 +1,5 @@
+/Users/arnav/Projects/ReleaseNoteFunctions/ParseNotes/bin/Debug/ParseNotes.exe
+/Users/arnav/Projects/ReleaseNoteFunctions/ParseNotes/bin/Debug/ParseNotes.pdb
+/Users/arnav/Projects/ReleaseNoteFunctions/ParseNotes/obj/x86/Debug/ParseNotes.csproj.CoreCompileInputs.cache
+/Users/arnav/Projects/ReleaseNoteFunctions/ParseNotes/obj/x86/Debug/ParseNotes.exe
+/Users/arnav/Projects/ReleaseNoteFunctions/ParseNotes/obj/x86/Debug/ParseNotes.pdb
